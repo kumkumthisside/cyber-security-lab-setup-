@@ -48,3 +48,12 @@ The virtual lab uses a NAT Network configured in VirtualBox.
 ```text
 Network: 10.0.0.0/24
 Gateway: 10.0.0.1
+### 📸 Kali Linux IP Configuration
+
+The Kali Linux virtual machine is configured with the following network settings:
+
+- IP Address: `10.0.0.2`
+- Netmask: `255.255.255.0`
+- Broadcast: `10.0.0.255`
+
+![Kali Linux IP Configuration](./VirtualBox_kali-linux-2026.2-virtualbox-amd64_01_10_2026_23_24_34.png)
